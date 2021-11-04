@@ -1,2 +1,4 @@
-package chess.pieces;public class Queen {
+package chess.pieces;
+
+public class Queen {
 }

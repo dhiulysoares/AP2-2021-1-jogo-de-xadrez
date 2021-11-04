@@ -1,2 +1,11 @@
-package chess.pieces;public class Bishop {
+package chess.pieces;
+
+import boardgame.*;
+import chess.*;
+
+
+
+public class Bishop {
+
+
 }
