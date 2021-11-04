@@ -5,3 +5,4 @@ Projeto de jogo de xadrez usando a linguagem Java e POO.
 ## Nomes:
 - Dhiuly Soares da Silva - dhiulysoares
 - Rodrigo Francisco Coutinho - rodrigocoutinho
+- Guilherme Lourenço Feitosa Mendes - Popkacz
