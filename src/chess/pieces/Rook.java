@@ -8,6 +8,8 @@ public class Rook extends ChessPiece {
     public Rook(Board board, Color color) {
         super(board, color);
     }
+    
+    //Torre
 
     @Override
     public String toString() {
